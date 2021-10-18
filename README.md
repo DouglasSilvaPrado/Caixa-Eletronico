@@ -2,38 +2,44 @@
   
 <h2 align="center">Sistema Desenvolvido com Java e Mysql.</h2>
 <br>
- 
+
+<h2 align="center">Funcionamento</h2>
+<div align="center">
+  <h3>Clique na imagem abaixo para assistir o video 🎬 👇</h3>
+    <a href="https://youtu.be/NNuTrJ-KPmc"><img src="https://storage.googleapis.com/support-forums-api/attachment/thread-84051386-11808765789669818553.jpeg" width="700px"/></a>
+</div>
+
 <h2 align="center">Tela de Acesso</h2>
 <div align="center">
-<img src="" width="700px"/>
+<img src="CaixaEletronico/src/imagens/Tela-Acesso.PNG" width="700px"/>
 
 </div>
 <h2 align="center">Tela de Conta</h2>  
 <div align="center">
-<img src="" width="700px"/>
+<img src="CaixaEletronico/src/imagens/Tela-Conta.PNG" width="700px"/>
 </div>
 
 <h2 align="center">Tela Principal</h2>
 <div align="center">
-<img src="" width="700px"/>
+<img src="CaixaEletronico/src/imagens/Tela-Principal.PNG" width="700px"/>
 </div>
   
 </div>
 <h2 align="center">Tela de Saldo</h2>  
 <div align="center">
-<img src="" width="700px"/>
+<img src="CaixaEletronico/src/imagens/Tela-Saldo.PNG" width="700px"/>
 </div>
 
 </div>
 <h2 align="center">Tela de Deposito</h2>  
 <div align="center">
-<img src="" width="700px"/>
+<img src="CaixaEletronico/src/imagens/Tela-Deposito.PNG" width="700px"/>
 </div>
 
 </div>
 <h2 align="center">Tela de Saque</h2>  
 <div align="center">
-<img src="" width="700px"/>
+<img src="CaixaEletronico/src/imagens/Tela-Saque.PNG" width="700px"/>
 </div>
 
 <h2>Histórico de lançamentos</h2>
