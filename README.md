@@ -6,7 +6,7 @@
 <h2 align="center">Funcionamento</h2>
 <div align="center">
   <h3>Clique na imagem abaixo para assistir o video 🎬 👇</h3>
-    <a href="https://youtu.be/NNuTrJ-KPmc"><img src="https://storage.googleapis.com/support-forums-api/attachment/thread-84051386-11808765789669818553.jpeg" width="700px"/></a>
+    <a href="https://youtu.be/NNuTrJ-KPmc" target="_blank"><img src="https://storage.googleapis.com/support-forums-api/attachment/thread-84051386-11808765789669818553.jpeg" width="700px"/></a>
 </div>
 
 <h2 align="center">Tela de Acesso</h2>
