@@ -6,14 +6,32 @@
 <h2 align="center">Tela de Acesso</h2>
 <div align="center">
 <img src="" width="700px"/>
-  
+
+</div>
+<h2 align="center">Tela de Conta</h2>  
+<div align="center">
+<img src="" width="700px"/>
+</div>
+
 <h2 align="center">Tela Principal</h2>
 <div align="center">
 <img src="" width="700px"/>
 </div>
   
 </div>
-<h2 align="center">Tela de Cadastro</h2>  
+<h2 align="center">Tela de Saldo</h2>  
+<div align="center">
+<img src="" width="700px"/>
+</div>
+
+</div>
+<h2 align="center">Tela de Deposito</h2>  
+<div align="center">
+<img src="" width="700px"/>
+</div>
+
+</div>
+<h2 align="center">Tela de Saque</h2>  
 <div align="center">
 <img src="" width="700px"/>
 </div>
