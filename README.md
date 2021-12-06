@@ -27,7 +27,7 @@
 </div>
 <h2 align="center">Tela de Saldo</h2>  
 <div align="center">
-<img src="CaixaEletronico/src/imagens/Tela-Saldo.PNG" width="700px"/>
+<img src="CaixaEletronico/src/imagens/Tela-Saldo.png" width="700px"/>
 </div>
 
 </div>
